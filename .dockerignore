@@ -4,4 +4,6 @@ __pycache__/
 data/*.db
 data/*.db-wal
 data/*.db-shm
-.venv/
+.git/
+.gitignore
+*.md
